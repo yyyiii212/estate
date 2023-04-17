@@ -1,0 +1,426 @@
+#a1 {
+    width: 55px;
+    height: 55px;
+    background-color: black;
+}
+
+.div1 {
+    width: 155px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    #p1 {
+        margin-left: 7px;
+        margin-top: 17px;
+        margin-right: 13px;
+    }
+}
+
+.btn-primary {
+    background-color: rgb(77, 88, 97);
+}
+
+.vl {
+    margin-top: 7px;
+    border-left: 3px solid black;
+    height: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+#a11 {
+    margin-left: 50px;
+}
+
+.nav-link {
+    font-weight: bold;
+}
+
+.div99 {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(172, 190, 206);
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    .div99-1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 150px;
+        height: 150px;
+        background-color: rgb(77, 88, 97);
+        color: white;
+        font-weight: bold;
+
+    }
+
+    .div99-2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 150px;
+        height: 150px;
+        background-color: rgb(77, 88, 97);
+        color: white;
+        font-weight: bold;
+    }
+
+    .div99-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 150px;
+        height: 150px;
+        background-color: rgb(77, 88, 97);
+        color: white;
+        font-weight: bold;
+    }
+}
+
+#aa1 {
+    color: white;
+    text-decoration: none;
+}
+
+span {
+    position: relative;
+    top: -2px;
+    left: 4px;
+    font-weight: bold;
+}
+
+.back1 {
+    width: 100%;
+    height: 1500px;
+    background-color: rgb(172, 190, 206);
+
+
+
+    .area {
+        width: 80%;
+        height: 300px;
+        font-size: 36px;
+        font-weight: bold;
+        margin: 0 auto;
+        position: static;
+        top: 10px;
+
+        .area1 {
+            width: 200px;
+            height: 240px;
+            background-color: rgb(77, 88, 97);
+            border-radius: 50px;
+            position: relative;
+            top: 20px;
+            left: 30px;
+            background-image: url(./image/banner1.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+        }
+
+        .area-p1 {
+            position: relative;
+            top: -210px;
+            left: 270px;
+        }
+    }
+
+    .area-1 {
+        width: 80%;
+        height: 300px;
+        font-size: 36px;
+        font-weight: bold;
+        margin: 0 auto;
+        position: relative;
+        top: 450px;
+
+        .area1 {
+            width: 200px;
+            height: 240px;
+            background-color: rgb(77, 88, 97);
+            border-radius: 50px;
+            position: relative;
+            top: 20px;
+            left: 30px;
+            background-image: url(./image/banner2.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+        }
+
+        .area-p1 {
+            position: relative;
+            top: -210px;
+            left: 270px;
+        }
+
+    }
+
+    .area-2 {
+        width: 80%;
+        height: 300px;
+        font-size: 36px;
+        font-weight: bold;
+        margin: 0 auto;
+        position: relative;
+
+        .area1 {
+            width: 200px;
+            height: 240px;
+            background-color: rgb(77, 88, 97);
+            border-radius: 50px;
+            position: relative;
+            top: 20px;
+            left: 30px;
+            background-image: url(./image/banner3.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+        }
+
+        .area-p1 {
+            position: relative;
+            top: -210px;
+            left: 270px;
+        }
+    }
+
+    .area-3 {
+        width: 80%;
+        height: 300px;
+        font-size: 36px;
+        font-weight: bold;
+        margin: 0 auto;
+        position: relative;
+        top: 450px;
+
+        .area1 {
+            width: 200px;
+            height: 240px;
+            background-color: rgb(77, 88, 97);
+            border-radius: 50px;
+            position: relative;
+            top: 20px;
+            left: 30px;
+            background-image: url(./image/banner1.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+        }
+
+        .area-p1 {
+            position: relative;
+            top: -210px;
+            left: 270px;
+        }
+
+    }
+
+    .object1 {
+        width: 80%;
+        height: 300px;
+        font-size: 36px;
+        font-weight: bold;
+        margin: 0 auto;
+        position: relative;
+        top: 30px;
+
+        .area-p1 {
+            position: relative;
+            top: -280px;
+            left: 270px;
+        }
+    }
+
+    .object1-1 {
+        width: 80%;
+        height: 800px;
+        background-color: white;
+        position: relative;
+        top: 500px;
+        margin: 0 auto;
+    }
+
+    .search-btn {
+        width: 190px;
+        height: 90px;
+        color: white;
+        background-color: rgb(77, 88, 97);
+        font-size: 36px;
+        font-weight: bold;
+        position: relative;
+        top: 80px;
+        left: 40%;
+    }
+
+    .back1-1 {
+        width: 80%;
+        height: 400px;
+        margin: 0 auto;
+        position: relative;
+        top: 50px;
+
+        .p1 {
+            font-size: 30px;
+            color: black;
+            font-weight: bold;
+        }
+
+        .back1-1-1 {
+            width: 80%;
+            height: 200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            align-items: center;
+        }
+
+        .back1-1-1-1 {
+            width: 200px;
+            height: 40px;
+            background-color: rgb(77, 88, 97);
+            color: white;
+            font-weight: bold;
+            border-radius: 70px;
+
+            .back1-check {
+                position: relative;
+                top: 10px;
+                left: 30px;
+            }
+
+            span {
+                position: relative;
+                top: 8px;
+                left: 50px;
+            }
+        }
+    }
+}
+
+
+.log-in1 {
+    background-color: rgb(172, 190, 206);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    .log-in1-2 {
+        width: 260px;
+        height: 70px;
+        margin-left: -0px;
+    }
+}
+
+#login {
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(77, 88, 97);
+}
+
+#sign {
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    left: 130px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+#email,
+#password {
+    width: 250px;
+    color: #999;
+}
+
+#email::placeholder {
+    background-image: url("https://pic.616pic.com/ys_img/00/39/86/qvmHBZT3Kr.jpg");
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+}
+
+#password::placeholder {
+    background-image: url("https://pic.616pic.com/ys_img/00/07/98/0oWBizzxtb.jpg");
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+}
+
+input[type=checkbox] {
+    width: 17px;
+    height: 17px;
+}
+
+.navbar {
+    z-index: 5;
+}
+
+.pp2 {
+    color: white;
+    text-decoration: none;
+}
+
+.back1-2 {
+    width: 80%;
+    height: 400px;
+    align-items: center;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    position: relative;
+    top: 100px;
+
+    .account_page {
+        align-items: center;
+        width: 80%;
+        height: 120px;
+        margin: 0 auto;
+
+        .account_page-btn {
+            width: 100%;
+            height: 120px;
+            color: white;
+            background-color: rgb(77, 88, 97);
+            font-weight: bold;
+        }
+    }
+}
+
+#carouselExampleControls {
+    max-width: 240px;
+    /* 修改为适当的值 */
+    position: relative;
+    margin: 0 0 0 0;
+    height: 300px;
+    object-fit: cover;
+}
+
+.carousel-inner img {
+    height: 300px;
+    /* 设置高度 */
+    object-fit: cover;
+    /* 设置图片填充方式 */
+}
+
+.carousel {
+    border-radius: 50px;
+    // 把導圓角後的圖片藏起來 
+    overflow: hidden;
+}
