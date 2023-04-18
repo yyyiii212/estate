@@ -403,24 +403,26 @@ input[type=checkbox] {
     }
 }
 
-#carouselExampleControls {
-    max-width: 240px;
-    /* 修改为适当的值 */
-    position: relative;
-    margin: 0 0 0 0;
-    height: 300px;
-    object-fit: cover;
-}
+.object1 {
+    #carouselExampleControls {
+        max-width: 240px;
+        /* 修改为适当的值 */
+        position: relative;
+        margin: 0 0 0 0;
+        height: 300px;
+        object-fit: cover;
+    }
 
-.carousel-inner img {
-    height: 300px;
-    /* 设置高度 */
-    object-fit: cover;
-    /* 设置图片填充方式 */
-}
+    #carousel-inner img {
+        height: 300px;
+        /* 设置高度 */
+        object-fit: cover;
+        /* 设置图片填充方式 */
+    }
 
-.carousel {
-    border-radius: 50px;
-    // 把導圓角後的圖片藏起來 
-    overflow: hidden;
+    .carousel {
+        border-radius: 50px;
+        // 把導圓角後的圖片藏起來 
+        overflow: hidden;
+    }
 }

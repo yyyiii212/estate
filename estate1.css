@@ -11198,7 +11198,7 @@ input[type=checkbox] {
   font-weight: bold;
 }
 
-#carouselExampleControls {
+.object1 #carouselExampleControls {
   max-width: 240px;
   /* 修改为适当的值 */
   position: relative;
@@ -11207,16 +11207,14 @@ input[type=checkbox] {
   -o-object-fit: cover;
      object-fit: cover;
 }
-
-.carousel-inner img {
+.object1 #carousel-inner img {
   height: 300px;
   /* 设置高度 */
   -o-object-fit: cover;
      object-fit: cover;
   /* 设置图片填充方式 */
 }
-
-.carousel {
+.object1 .carousel {
   border-radius: 50px;
   overflow: hidden;
 }/*# sourceMappingURL=estate1.css.map */
